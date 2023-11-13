@@ -102,3 +102,7 @@
 .actionButtons button:hover {
   opacity: 0.8; 
 }
+
+.taskStatus_done {
+  background-color: #ccc;
+}
